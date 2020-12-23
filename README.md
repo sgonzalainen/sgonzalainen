@@ -5,8 +5,8 @@
 
 # Welcome to my Data Science Portfolio! 👋 🤓
 
-## Hello reader! Down below you can find a summary of my data science and python developer projects. 🧐
-## Please feel free to take a deeper look at each repo to know me more about my proficiency and coding style 🙂
+### Hello reader! Down below you can find a summary of my data science and python developer projects. 🧐
+### Please feel free to take a deeper look at each repo to know me more about my proficiency and coding style 🙂
 
 [![Linkedin Badge](https://img.shields.io/badge/Sergio%20Gonz%C3%A1lez-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/sergio-gon-rod/)](https://www.linkedin.com/in/sergio-gon-rod/)
 [![Gmail Badge](https://img.shields.io/badge/s.gonzrod@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davidlago_55@hotmail.com)](mailto:s.gonzrod@gmail.com)
