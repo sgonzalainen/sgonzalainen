@@ -16,9 +16,13 @@
 #### [SpotiFeat](https://github.com/sgonzalainen/SpotiFeat)
 Spotify app where users can generate playlists taking into account the musical taste of other spotify users. Perfect for a party!
 
-The app runs on **Flask** and it makes use of a supervised musical genre **neural network** classificator based on pure audio and **community** of artists. 
+The app runs on **Flask** and it makes use of a supervised musical genre **neural network** classifier based on pure audio and **community** of artists. 
 
 The database used is **MySQL**.
+
+Check the demo video [here](https://www.linkedin.com/posts/sergio-gon-rod_machinelearning-bootcamp-activity-6754097773982846976-tjYu) .
+
+
 
 ### Machine Learning 🤖
 #### [Diamond Pries Inclass ML competition](https://github.com/sgonzalainen/IH-P6-Inclass_ML_Competition)
