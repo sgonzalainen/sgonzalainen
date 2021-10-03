@@ -25,6 +25,19 @@ Check the demo video [here](https://www.linkedin.com/posts/sergio-gon-rod_machin
 
 
 ### Machine Learning 🤖
+
+#### [ACB Players Clustering](https://github.com/sgonzalainen/ACB/blob/main/output/kmeans_clustering_10s.md)
+
+Personal project where 10s decade ACB players are clustered based on their game stats. 
+
+Dimension are reduced by **PCA** and then clustered by **KMeans** algorithm. 
+
+I show examples of players for each cluster and also explain my interpretation of the Eigen vectors of each PC in basketball terms.
+
+🏀🏀  If you are a basketball lover, you definitely must check it out! 🏀🏀
+
+
+
 #### [Diamond Pries Inclass ML competition](https://github.com/sgonzalainen/IH-P6-Inclass_ML_Competition)
 
 Inclass Kaggle competition against other Ironhackers. Goal is simple: to optimize the prediction of diamonds prices being 'optimize' understood as to improve as much as possible the model metric, not to find a sweet balance between great metric and explanability.
